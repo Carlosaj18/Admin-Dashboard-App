@@ -139,11 +139,9 @@ COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Start the Server
-- [x] Start the Client  
-- [ ] Select your products
-- [ ] Go to the payment section 
-- [ ] Checkput purchases 
+- [x] Analaze your data
+- [x] Know you own team  
+- [ ] Create you personalize calendar 
 
 See the [open issues](https://github.com/Carlosaj18/Admin-Dashboard-App/issues) for a full list of proposed features (and known issues).
 
