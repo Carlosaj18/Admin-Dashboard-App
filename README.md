@@ -79,31 +79,25 @@
 ## About The Project!
 
 
-
-
-
-
 https://user-images.githubusercontent.com/62365628/216800299-18311420-5852-49d8-8ebc-5ec2aafd8c5c.mp4
 
 
-
-My desire is to nurture your true identity. My heart is to constantly remind you who you are. Whether you follow & wholeheartedly believe in Jesus Christ, is your decision to pursue. Regardless, I want you to know that you are valued and loved more than words could ever say. Your life on this earth is a miracle and the breath in your lungs was purposefully designed for such a time as this. My hope is to remind you of the infinite value you hold within & the beautiful light that shines every time you genuinely smile. My will is to cry out to God on your behalf so the love that transcends understanding overwhelms your heart. Whether you believe it or not, God loves you & He is not afraid of your doubts. May you be courageous enough to ask the right questions and seek the right answers. For those who seek will find and, those who knock, the door will be open (Matthew 7:7).
+This is your Admin Dashboard. 
 
 Here's why:
-* Shine Artisanal was born out of the desire to help women encounter their true and beautiful self as the unique masterpiece that God designed them to be.
-* Our aim is to empower women to let their light shine!
+* Organize your data. 
+* Display your top data with excellents graphs. 
+* Have everything you need in your dashboard. 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ### Built With
 
-Build a FULLSTACK React Ecommerce App that is fully Responsive with Stripe Payment
+COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark Mode
 
 <p align="center">
   <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" alt="Figma" height="40" style="vertical-align:top; margin:4px"></a>
-  <a target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/62365628/216799491-89418b32-3745-4f1c-9e4c-cfc1144214f0.svg" alt="Strapi" height="40" style="vertical-align:top; margin:4px"></a>
   <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" height="40" style="vertical-align:top; margin:4px"></a>
-  <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="Firebase" height="40" style="vertical-align:top; margin:10px"></a>
   <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" height="40" style="vertical-align:top; margin:10px"</a>
    <a> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/materialui/materialui-original.svg" alt="MaterialUi" height="40" style="vertical-align:top; margin:10px"></a>
   <a> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" alt="Redux" height="40" style="vertical-align:top; margin:10px"></a>
@@ -111,8 +105,6 @@ Build a FULLSTACK React Ecommerce App that is fully Responsive with Stripe Payme
 </p>
   
   
- 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -120,11 +112,6 @@ Build a FULLSTACK React Ecommerce App that is fully Responsive with Stripe Payme
 ## Getting Started
 
 ### Prerequisites
-
-* Install Strapi
-  ```sh
-  npm run develop
-  ```
 
 * npm
   ```sh
@@ -135,17 +122,13 @@ Build a FULLSTACK React Ecommerce App that is fully Responsive with Stripe Payme
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App.git
+   git clone https://github.com/Carlosaj18/Admin-Dashboard-App.git
    ```
 2. Install NPM packages
    ```sh
    npm install
    ```
-3. Start the Server
-   ```sh
-   npm run develop
-   ```
-4. Start the Client
+4. Start the Project 
    ```sh
    npm start
    ```
@@ -162,7 +145,7 @@ Build a FULLSTACK React Ecommerce App that is fully Responsive with Stripe Payme
 - [ ] Go to the payment section 
 - [ ] Checkput purchases 
 
-See the [open issues](https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Carlosaj18/Admin-Dashboard-App/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -187,7 +170,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App]
+Project Link: [https://github.com/your_username/repo_name](https://github.com/Carlosaj18/Admin-Dashboard-App]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -195,13 +178,13 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/Ca
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App/graphs/contributors
+[contributors-url]: https://github.com/Carlosaj18/Admin-Dashboard-App/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App/network/members
+[forks-url]: https://github.com/Carlosaj18/Admin-Dashboard-App/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App/issues
+[issues-url]: https://github.com/Carlosaj18/Admin-Dashboard-App/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/carlos-jaramillo-full-stack-developer/
 [product-screenshot]: https://user-images.githubusercontent.com/62365628/216798918-82c7b3c2-8936-4e80-bf5d-9b83d2a1f3bc.mp4
