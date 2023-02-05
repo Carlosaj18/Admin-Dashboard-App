@@ -37,14 +37,14 @@
   <p align="center">
     React Admin Dashboard. We will be using React, Material UI, Nivo Charts, Formik, Yup, FullCalendar, and Data Grid to build this entire application. This application consists of Light and Dark Mode, 4 different Charts, 3 different Data Table Pages, FAQ Page, Form Page, and Calendar Integration.
     <br />
-    <a href="https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App"><strong>Explore the site »</strong></a>
+    <a href="https://github.com/Carlosaj18/Admin-Dashboard-App"><strong>Explore the site »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Carlosaj18/Legal-App">View Demo</a>
     ·
-    <a href="https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App/issues">Report Bug</a>
+    <a href="https://github.com/Carlosaj18/FAdmin-Dashboard-App/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App/issues">Request Feature</a>
+    <a href="https://github.com/Carlosaj18/Admin-Dashboard-App/issues">Request Feature</a>
   </p>
 </div>
 
@@ -79,7 +79,7 @@
 ## About The Project!
 
 
-https://user-images.githubusercontent.com/62365628/216800299-18311420-5852-49d8-8ebc-5ec2aafd8c5c.mp4
+https://user-images.githubusercontent.com/62365628/216800481-b54e792c-80b2-44bf-8ff6-f212c709c7fe.mp4
 
 
 This is your Admin Dashboard. 
