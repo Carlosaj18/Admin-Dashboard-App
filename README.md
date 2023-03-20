@@ -40,7 +40,7 @@
     <a href="https://github.com/Carlosaj18/Admin-Dashboard-App"><strong>Explore the site »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Carlosaj18/Legal-App">View Demo</a>
+    <a href="https://user-images.githubusercontent.com/62365628/216800481-b54e792c-80b2-44bf-8ff6-f212c709c7fe.mp4">View Demo</a>
     ·
     <a href="https://github.com/Carlosaj18/FAdmin-Dashboard-App/issues">Report Bug</a>
     ·
@@ -79,17 +79,18 @@
 ## About The Project!
 
 
+This is your Admin Dashboard. 
+
 https://user-images.githubusercontent.com/62365628/216800481-b54e792c-80b2-44bf-8ff6-f212c709c7fe.mp4
 
-
-This is your Admin Dashboard. 
+## Usage
+<p id="Usage"><p>
 
 Here's why:
 * Organize your data. 
 * Display your top data with excellents graphs. 
 * Have everything you need in your dashboard. 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ### Built With
 
@@ -111,27 +112,32 @@ COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark
 <!-- GETTING STARTED -->
 ## Getting Started
 
-### Prerequisites
 
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+### 1. Download Node.js and `npm` (follow instructions [here](https://nodejs.org/en/))
 
-### Installation
+### 2. Git clone and cd into the repo folder:
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/Carlosaj18/Admin-Dashboard-App.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Start the Project 
-   ```sh
-   npm start
-   ```
+```bash
+https://github.com/Carlosaj18/Admin-Dashboard-App.git && cd chatgpt-clone
+```
+
+### 3. Install all dependencies
+
+```bash
+npm install
+```
+
+### 4. Run the client
+
+```bash
+npm start
+#for deployed version
+
+npm run dev
+#for deployed version
+```
+
+### 5. Access the project in your browser at [`http://localhost:3000`](http://localhost:3000)
    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -165,12 +171,25 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Live Site 
+
+<p id="live-site"><p>
+
+<a href="">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389947/Readme%20Headers/inter-live-site_ngkqcf.png)</a>
+
+• **[Admin Dashboard App]()** is a responsive web app can be viewed on any device.
+
+<br>
+
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/Carlosaj18/Admin-Dashboard-App]
+<a href=#lets-connect>![Let's Connect!](https://res.cloudinary.com/dn1e07eul/image/upload/v1659314257/Readme%20Headers/inter-lets-connect_bv3kcd.png)</a>
+
+<p><a href="https://twitter.com/"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30 width=90 alt="Twitter badge"></a> <a href="https://www.linkedin.com/in/carlos-jaramillo-full-stack-developer/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30 width=90 alt="Linkedin badge"></a> <a href="mailto:cjaramilloportilla@gmail.com"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30 width=90 alt="Gmail badge"></a> <a href="https://github.com/Carlosaj18"><img src="https://img.shields.io/badge/github-%23ff8e44.svg?&style=for-the-badge&logo=github&logoColor=white" height=30 width=90 alt="Github badge"></a></p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
