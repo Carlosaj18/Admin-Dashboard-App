@@ -118,7 +118,7 @@ COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark
 ### 2. Git clone and cd into the repo folder:
 
 ```bash
-https://github.com/Carlosaj18/Admin-Dashboard-App.git && cd chatgpt-clone
+https://github.com/Carlosaj18/Admin-Dashboard-App.git && cd admin-clone
 ```
 
 ### 3. Install all dependencies
