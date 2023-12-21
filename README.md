@@ -49,54 +49,24 @@
 </div>
 
 <br />
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
-
 
 <!-- ABOUT THE PROJECT -->
-## About The Project!
-
+## :star2: About the Project
 
 This is your Admin Dashboard. 
 
-https://user-images.githubusercontent.com/62365628/216800481-b54e792c-80b2-44bf-8ff6-f212c709c7fe.mp4
+## Project Technological Stack:
 
-## Usage
-<p id="Usage"><p>
-
-Here's why:
-* Organize your data. 
-* Display your top data with excellents graphs. 
-* Have everything you need in your dashboard. 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Built With
-
-COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark Mode
+* React: Frontend library for building interactive user interfaces.
+* Material UI: UI framework providing pre-built components for design consistency.
+* Nivo Charts: Library for creating interactive and customizable charts.
+* Formik: Form library for managing form inputs and validation.
+* Yup: Schema validation library used with Formik for form validation.
+* FullCalendar: Calendar integration for managing events and schedules.
+* Data Grid: Component for displaying tabular data efficiently.
 
 <p align="center">
+    <br><br>
   <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" alt="Figma" height="40" style="vertical-align:top; margin:4px"></a>
   <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="Firebase" height="40" style="vertical-align:top; margin:10px"></a>
   <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" height="40" style="vertical-align:top; margin:10px"</a>
@@ -105,10 +75,18 @@ COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark
    <a> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="MaterialUi" height="40" style="vertical-align:top; margin:10px"></a>
 </p>
   
-  
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Features:
 
-
+*      Light/Dark Mode: Toggle between different interface themes for user preference.
+*      Multiple Chart Types: Four interactive and customizable chart options available.
+*      Diverse Data Tables: Three distinct pages for efficient tabular data display.
+*      FAQ Section: Answers to frequently asked questions available for easy access.
+*      Form Interface: Simplified form page for data input and submission.
+*      Calendar Integration: Seamless FullCalendar integration for event management.
+*      Consistent UI: Utilizes Material UI for a visually unified interface.
+*      Form Handling & Validation: Efficiently managed using Formik and Yup.
+*      Optimized Data Display: Utilizes Data Grid for tabular data presentation.
+ 
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -139,37 +117,11 @@ npm run dev
 
 ### 5. Access the project in your browser at [`http://localhost:3000`](http://localhost:3000)
    
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Demo & Showcasing:
 
+### :camera: Screenshots
 
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Analaze your data
-- [x] Know you own team  
-- [ ] Create you personalize calendar 
-
-See the [open issues](https://github.com/Carlosaj18/Admin-Dashboard-App/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+https://user-images.githubusercontent.com/62365628/216800481-b54e792c-80b2-44bf-8ff6-f212c709c7fe.mp4
 
 ## Live Site 
 
